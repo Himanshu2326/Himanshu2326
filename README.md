@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Himanshu Prajapati
+- 👋 Hi, I’m Himanshu Prajapati.
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking for intership/job to Get Industrial Exproser.
