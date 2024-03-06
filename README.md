@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Himanshu Prajapati.</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Prajapati</h1>
 
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking for intership/job to Get Industrial Exposure.
-- ⚡ How to reach me **himanshuprajapti71305@gmail.com**
-- 📫 Check My Portfolio For More Details. [https://himanshu2326.github.io/PortFolio/](https://himanshu2326.github.io/PortFolio/)
+- ⚡ To reach me contact **himanshuprajapti71305@gmail.com**
+- 📫 Check My Portfolio For More Details : [https://himanshu2326.github.io/PortFolio/](https://himanshu2326.github.io/PortFolio/)
 
 
 <!---
